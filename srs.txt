@@ -3,4 +3,6 @@ Functional requirement
 login
 Placement Portal
 View Attendance
-
+security check
+usability
+scalability
